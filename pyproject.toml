@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "povtas"
-version = "0.1.7"
+version = "0.1.10"
 authors = [
   { name="totoLab", email="antoniolabate19@gmail.com" },
 ]
