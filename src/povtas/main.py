@@ -7,6 +7,3 @@ def main():
     string = re.sub("R", "V", string)
 
     print("There:", string, end="\n\n")
-
-while True:
-    main()
