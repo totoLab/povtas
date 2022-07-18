@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# test dir, test script
+tests/
+test_build_upload_install.sh
