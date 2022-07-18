@@ -1,1 +1,0 @@
-from povtas.main import povtas_sub
